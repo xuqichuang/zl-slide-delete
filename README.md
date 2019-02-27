@@ -2,6 +2,14 @@
 
 > 臻旅左滑删除组件
 
+## 全局引用方法
+> main.js 中引入
+
+```
+import zlSlideDelete from 'zl-slide-delete'
+Vue.use(zlSlideDelete)
+```
+
 ### zlSlideDelete
 > 左滑删除，可以自定义滑动或不滑动，主要内容需根据组件需求而定义
 ###### 使用方法
