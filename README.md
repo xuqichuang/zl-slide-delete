@@ -2,6 +2,12 @@
 
 > 臻旅左滑删除组件
 
+## 引入组件
+
+```
+npm install zl-slide-delete -S
+```
+
 ## 全局引用方法
 > main.js 中引入
 
